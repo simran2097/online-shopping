@@ -1,4 +1,4 @@
-# online-shopping
+# ECOMMERCE ONLINE_SHOPPING 
 
 This is a website for online shopping with the help of Java server side technology with spring framework, hibernate, bootstrap and angular js.
 
